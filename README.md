@@ -3,3 +3,5 @@ Jupyter notebooks for constructing plots focusing on the Cherenkov radiation cau
 Some accessory code for simulations is also included.
 
 The purpose of this research is to study how the signal of an ultrarelativistic MM would be seen by VERITAS.
+
+(If you are looking for the simulations, they are not here.)
